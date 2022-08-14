@@ -5,3 +5,6 @@ The tables also is a slicer for the data visualization. This is just a simple ex
 
 
 Second segmented display is better than the segmented display. Notice that there are errors in both of them. The Sales , unit price and all other values representing money needed a currency to know that they are monetary values.
+
+
+The Segmented Dashborad is a poor representation of product dashboard. It is ok to start with it but as you keep practicing the dashboards improve.
