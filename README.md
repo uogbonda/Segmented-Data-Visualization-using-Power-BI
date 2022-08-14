@@ -8,3 +8,6 @@ Second segmented display is better than the segmented display. Notice that there
 
 
 The Segmented Dashborad is a poor representation of product dashboard. It is ok to start with it but as you keep practicing the dashboards improve.
+
+
+Microsoft POWER BI
