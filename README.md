@@ -11,3 +11,5 @@ The Segmented Dashborad is a poor representation of product dashboard. It is ok 
 
 
 Microsoft POWER BI
+
+Importing the data from the Web, Excel etc, during the data importation; you can transform the data. If preferred working on the data in Excel before importing it to Power BI. Editing the data set in Excel is easier if you are not familiar with the Power BI.
